@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/mary1991-hub/Hello-world/issues"
   },
+  "publishConfig": {
+    "@mary1991-hub:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/mary1991-hub/Hello-world#readme"
+  
 }
